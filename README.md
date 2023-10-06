@@ -5,6 +5,10 @@ git clone https://github.com/Grindmix/TODOApp.git
 ```
 
 ```bash
+cd TODOApp
+```
+
+```bash
 docker compose up
 ```
 
